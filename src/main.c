@@ -7,5 +7,6 @@ int main()
     printf(">>hello world and value of x is %d \n",x);
     printf(">>hello world and value of x is %d \n",x);
     printf(">>hello world and value of x is %d \n",x);
-
+    return 0;
+        printf(">>hello world and value of x is %d \n",x);
 }
